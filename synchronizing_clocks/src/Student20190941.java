@@ -1,7 +1,7 @@
 import java.util.*;
 public class Student20190941 {
 	
-	static int result = 100000;
+	static int result = Integer.MAX_VALUE;
 
 	public static void main(String[] args) {
 
